@@ -1,0 +1,125 @@
+body{
+  background-image: url("https://i.pinimg.com/originals/d7/f7/42/d7f74219cc636e09c8e2cff029f2a9b0.jpg");
+  background-size: 100%;
+  text-align: center;
+
+}
+#intro{
+  margin: 0 500px;
+}
+.diagonhead{
+  font-family: "Montez";
+  color:black;
+  font-size: 60px;
+  font-weight:900;
+  text-shadow: 10px 10px 10px #dee3e2;
+
+}
+.dspan{
+  font-family: "Kaushan Script";
+  font-weight: 900;
+  font-size: 100px;
+}
+.things{
+  margin-top: 150px;
+  background-color:  #dee3e2;
+  display: inline-block;
+  border-radius: 20%;
+  opacity: 0.8;
+  margin-bottom: 100px;
+}
+.thingimg
+{
+  height: 260px;
+  width: 300px;
+  border-radius: 40%;
+  animation: shake 0.8s;
+  animation-iteration-count: infinite;
+  opacity: 1;
+}
+.thingpara
+{
+  font-family: "Montez";
+
+  font-size: 80px;
+  font-weight: 700;
+  color: #d1cebd;
+}
+
+.card-header{
+  background-color: black;
+
+  border-color: white;
+  border: 3px solid white;
+
+}
+.card-body{
+  background-color:  black;
+
+  border-color: white;
+  border: 3px solid white;
+
+}
+.thingneed{
+  margin: 50px 100px;
+  background-color:  #d1cebd;
+border-radius: 20%;
+padding: 70px;
+  opacity: 0.9;
+
+}
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
+.card{
+  margin: 50px;
+}
+.fiximg
+{
+  height: 200px;
+  width: 180px;
+  border-radius: 50%;
+
+}
+.fixmusic{
+  position: fixed;
+  top: 0;
+  left: 0;
+  animation: shake 3s;
+  animation-iteration-count: infinite;
+
+}
+
+.fixpara{
+  font-size: 30px;
+  color: #dee3e2;
+  font-family: "Montez";}
+  .train{
+    background-color: black;
+    opacity: 0.9;
+    margin:0 100px 100px;
+    padding-bottom: 60px;
+    border-radius: 30%;
+  }
+  .hog{
+    height: 250px;
+    width: 800px;
+    border-radius: 20%;
+
+  }
+  .go{
+    font-size: 100px;
+    font-family: "Tangerine";
+    color: #dee3e2;
+    font-weight: 900;
+  }

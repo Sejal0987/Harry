@@ -1,0 +1,172 @@
+body
+{
+  background-image: url("https://i.pinimg.com/originals/38/fd/6d/38fd6d7c645400258715a83612c6c48f.jpg");
+  text-align: center;
+  background-size: 100%;
+}
+.heading{
+  font-family: "Montez";
+
+  color: #dee3e2;
+  font-size: 120px;
+  font-weight:900;
+  text-shadow: 10px 10px 10px black;
+
+}
+.imghead{
+
+ width: 290px;
+ height: 290px;
+
+ border-radius: 30%;
+
+}
+.imghead:hover{
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;}
+  @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+  }
+
+
+.head{
+  padding: 150px 510px 0;
+}
+.parahead{
+  font-size: 20px;
+  color:#dee3e2;
+
+  font-family:'Dancing Script', cursive;
+  text-shadow: 3px 3px 3px #d1cebd;
+
+  }
+  .paradiv{
+    display: inline-block;
+    background-color: black;
+    margin: 10px 120px;
+    border-radius: 10%;
+    padding: 5px 15px;
+  }
+.imghouse{
+  height: 400px;
+  width: 300px;
+  border-radius: 40%;
+}
+#house{
+  padding: 20px 0;
+}
+.phouse
+{
+  font-size: 20px;
+  font-family: "Piedra";
+  color: white;
+  margin: 0 80px;
+  text-shadow: 5px 5px 5px black;
+}
+.texthouse{
+  padding:30px 70px;
+  border: 2px solid;
+  border-color:#dee3e2;
+  border-radius: 20%;
+  margin: 3px 30px;
+}
+
+#info{
+  margin: 30px 60px;
+}
+.imginfo{
+  height: 160px;
+  width: 160px;
+  border-radius: 50%;
+  animation: shake 0.5s;
+  animation-iteration-count: infinite;
+}
+.outline{
+  border: 3px solid;
+  border-color: black;
+}
+.infohead{
+  font-size: 25px;
+  font-family: "Indie Flower";
+  text-shadow: 5px 5px 5px black;
+  color: #dee3e2;
+  font-weight: 900;
+}
+.four{
+  font-size: 30px;
+  color: black;
+  font-family:"Kaushan Script";
+  font-weight: 700;
+  text-shadow: 5px 5px 8px  #dee3e2;
+
+}
+.infodiv{
+  background-color: #dee3e2;
+  margin: 0 0 30px;
+  border-radius: 30%;
+  padding: 20px 0 0;
+}
+#sorting{
+  margin:100px 150px 30px;
+
+}
+.sorting{
+  /* background-color: black; */
+}
+.hat{
+  width:310px;
+  height: 390px;
+  border-radius: 30%;
+  border:2px solid #d1cebd;
+
+  margin: 20px 0;
+
+
+}
+.shaking{
+
+animation: shake 3s;
+animation-iteration-count: 10;
+
+}
+.sortdiv{
+background-color: black;
+border-radius: 20%;
+
+}
+.sortpara{
+  font-family: "Montez";
+  color: #dee3e2;
+  font-size: 100px;
+  font-weight: 500;
+  text-shadow: 10px 10px 10px #d1cebd;
+
+}
+.gry{
+  height: 400px;
+  width: 490px;
+  border-radius: 50%;
+
+}
+.img1,.img2,.img3,.img4{
+  background-color: black;
+  border-radius: 30%;
+  padding: 30px 0;
+}
+.infohead2{
+  font-size: 70px;
+  font-family: "Indie Flower";
+  text-shadow: 8px 8px 8px #d1cebd;
+  color: #dee3e2;
+  font-weight: 900;
+}

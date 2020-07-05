@@ -1,0 +1,120 @@
+body{
+  background-image: url("https://api.time.com/wp-content/uploads/2014/12/christmas-movies-07.jpg?quality=85&w=1200&h=628&crop=1");
+  background-image: url("https://cdn.viewing.nyc/assets/media/3b4e55ff456ea727618cc781acca4dd7/elements/565af9b037983e4b8f5eed1d71a6e2af/9da050ba-31d6-497a-bd34-128ffc17f6d8.jpg");
+  background-image: url("https://imgix.bustle.com/rehost/2016/9/13/70371c31-7d4c-4b46-839f-3225d06f8f99.jpg?w=970&h=546&fit=crop&crop=faces&auto=format%2Ccompress&cs=srgb&q=70");
+  background-image: url("https://archziner.com/wp-content/uploads/2020/02/still-from-sorcerers-stone-movie-harry-potter-background-iphone-students-sailing-to-hogwarts.jpg");
+  background-size:100%;
+  text-align: center;
+
+}
+.heading{
+  font-family: "Montez";
+
+  color: #d1cebd;
+  font-size: 90px;
+  font-weight:900;
+
+
+}
+.fixed
+{
+  position: fixed;
+  right: 0;
+
+}
+.img2div{
+    position:fixed;
+    left: 0;
+
+    top: 0;
+
+}
+
+.image2{
+
+ width: 200px;
+ height: 210px;
+   border-radius: 100%;
+
+}
+.img2par{
+  font-family: "Marck Script";
+  font-size: 30px;
+  color: white;
+  text-shadow: 5px 5px 8px black;
+
+
+}
+
+.phead{
+  font-family: 'Tangerine', cursive;
+
+  color: #dee3e2;;
+  font-size: 120px;
+  font-weight: 900;
+  text-shadow: 5px 10px 7px #d1cebd;
+}
+.container{
+  padding: 180px 300px 0;
+
+}
+
+
+.image{
+  width: 130px;
+  height: 140px;
+  border-radius: 100%;
+
+}
+.image3{
+  width: 360px;
+  height: 450px;
+  border-radius: 100%;
+}
+.imgreg{
+  width: 250px;
+  height: 270px;
+  border-radius: 100%;
+
+}
+.imgreg:hover{
+  transform: rotate(40deg);
+
+}
+h2{
+  font-family: "Marck Script";
+  font-size: 80px;
+  color: white;
+  text-shadow: 5px 5px 5px #d1cebd;
+
+}
+
+#reg{
+  text-align: center;
+  margin: 0 10%;
+
+}
+label{
+  color: white;
+}
+.reg{
+  border: 2px solid;
+  border-color: #d1cebd;
+  border-radius: 30%;
+  padding: 15px;
+  margin: 30px auto;
+}
+form:hover
+{
+  transform: scale(1.5);
+}
+form{
+  padding: 50px 0;
+  color: white;
+}
+.white{
+  color: white;
+}
+.regshake{
+  animation: shake 1s;
+}
