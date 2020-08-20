@@ -1,5 +1,5 @@
 alert("Click on sorting hat to know your house");
-alert("Clicl on logo to know about hogwarts");
+alert("Click on logo to know about hogwarts");
 
 
 // function myerr()
