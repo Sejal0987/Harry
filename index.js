@@ -40,7 +40,7 @@ $(".fixed").on("mouseover", function(){
 });
 $(".fixmusic").one("click",soundd);
 
-$(".image2").on("click",soundd);
+$(".image2").one("click",soundd);
 function soundd()
 {
   var audio= new Audio("harry.mp3");
