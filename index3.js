@@ -1,5 +1,6 @@
 alert("click left for the music");
-alert("click all the items to take it...until it become blur");''
+alert("click all the items to take it...until it become blur");
+alert("click on hogwarts express train to move further..")
 
 
 // function myerr()
