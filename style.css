@@ -11,7 +11,7 @@ body{
   font-family: "Montez";
 
   color: #d1cebd;
-  font-size: 5.8vw;
+  font-size: 90px;
   font-weight:900;
 
 
@@ -32,16 +32,16 @@ body{
 
 .image2{
 
- width: 13.02vw;
- height: 13.6vw;
+ width: 200px;
+ height: 208px;
    border-radius: 100%;
 
 }
 .img2par{
   font-family: "Marck Script";
-  font-size: 1.95vw;
+  font-size: 30px;
   color: white;
-  text-shadow: 0.32vw 0.32vw 0.52vw black;
+  text-shadow: 5px 5px 8px black;
 
 
 }
@@ -50,30 +50,30 @@ body{
   font-family: 'Tangerine', cursive;
 
   color: #dee3e2;;
-  font-size: 7.8vw;
+  font-size: 120px;
   font-weight: 900;
-  text-shadow: 0.32vw 0.65vw 0.45vw #d1cebd;
+  text-shadow: 5px 10px 7px #d1cebd;
 }
 .container{
-  padding: 11.7vw 19.53vw 0;
+  padding: 180px 300px 0;
 
 }
 
 
 .image{
-  width: 8.46vw;
-  height: 9.11vw;
+  width: 130px;
+  height: 140px;
   border-radius: 100%;
 
 }
 .image3{
-  width: 23.43vw;
-  height: 29.29vw;
+  width: 360px;
+  height: 450px;
   border-radius: 100%;
 }
 .imgreg{
-  width: 16.27vw;
-  height: 17.57vw;
+  width: 250px;
+  height: 270px;
   border-radius: 100%;
 
 }
@@ -83,9 +83,9 @@ body{
 }
 h2{
   font-family: "Marck Script";
-  font-size: 5.2vw;
+  font-size: 80px;
   color: white;
-  text-shadow: 0.32vw 0.32vw 0.32vw #d1cebd;
+  text-shadow: 5px 5px 5px #d1cebd;
 
 }
 
@@ -98,18 +98,18 @@ label{
   color: white;
 }
 .reg{
-  border: 0.13vw solid;
+  border: 2px solid;
   border-color: #d1cebd;
   border-radius: 30%;
-  padding: 0.97vw;
-  margin: 1.95vw auto;
+  padding: 15px;
+  margin: 30px auto;
 }
 form:hover
 {
   transform: scale(1.5);
 }
 form{
-  padding: 3.25vw 0;
+  padding: 50px 0;
   color: white;
 }
 .white{
