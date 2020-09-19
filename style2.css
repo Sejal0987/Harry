@@ -39,8 +39,9 @@ body
   }
 
 
+
 .head{
-  padding: 150px 510px 0;
+  padding:9.7vw 33.2vw 0;
 }
 .parahead{
   font-size: 20px;
@@ -67,7 +68,7 @@ body
 }
 .phouse
 {
-  font-size: 20px;
+   font-size: 1.30vw;
   font-family: "Piedra";
   color: white;
   margin: 0 80px;
