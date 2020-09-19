@@ -29,7 +29,7 @@
 
 
 
-alert("Click left for music");
+alert("INSTRUCTIONS:\nClick left for music.\nRegister to move further..");
 var arr=["gry","sly","huff","rav"];
 var count=0;
  var count2=0;
