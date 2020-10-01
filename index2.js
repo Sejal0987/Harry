@@ -78,9 +78,6 @@ function randomnumber(){
   var y=Math.floor((Math.random()*4)+1);
 
   $(".img"+y).show();
-  $(".img"+y).on("click",function(){
-  $(".img"+y+" a").attr("href","index3.html");
-});
 
 }
 
